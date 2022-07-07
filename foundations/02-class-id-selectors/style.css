@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(238, 110, 159);
+    font-family: 'DejaVu Sans', verdana, sans-serif;
+}
+
+.class2{
+    font-size: 24px;
+}
+
+#div1{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#div2{
+    background-color: rgb(162, 245, 124);
+    font-weight: bold;
+    font-size: 24px;
+}
